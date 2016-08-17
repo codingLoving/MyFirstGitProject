@@ -8,7 +8,7 @@ import org.wltea.analyzer.seg.ISegmenter;
 
 /**
  * 分词器上下文状态
- * @author 林良益 and who
+ * @author 林良益 and who Are you?
  *
  */
 public class Context{
